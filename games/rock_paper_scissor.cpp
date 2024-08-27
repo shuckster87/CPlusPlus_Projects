@@ -13,7 +13,7 @@ int main() {
     std::cout << "Enter your move (rock, paper, scissor): " << std::endl;
     std::cin >> input;
 
-    if(input != "rock" || input != "paper" || input != "scissor"){
+    if(input != "rock" && input != "paper" && input != "scissor"){
         std::cout << "I'm sorry but you didn't enter rock, paper, or scissor. Try again!" << std::endl;
         std::cout << "Enter your move: " << std::endl;
         std::cin >> input;
