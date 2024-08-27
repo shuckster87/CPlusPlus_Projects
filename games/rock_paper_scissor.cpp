@@ -3,6 +3,15 @@
 #include <time.h>
 
 int main() {
+    /*
+    * Purpose: This program's purpose is to replicate Rock, Paper, Scissors game where a user chooses either rock, paper, or scissor and then the computer makes a decision and then the program determines who is the winner.
+    * Author: Ryan Shuck
+    * Language: C++ (CLion 2024.1.1 g++ compiler)
+    * Date of creation: 4/26/24
+    * Date of last revision: 4/27/24
+    * Citation of sources: None
+    */
+
     srand(time(0));
 
     std::string input = "";
