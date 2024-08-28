@@ -6,8 +6,8 @@
    * Purpose: This program's purpose is to replicate Rock, Paper, Scissors game where you can play with either 1 or 2 players. If you choose 1 player then you will be played against a computer and if you choose 2 players then you will be played against another player. You can play either mode as many times as you want as long as you say "yes" or "no" when it asks you if you want to play again.
    * Author: Ryan Shuck
    * Language: C++ (CLion 2024.1.1 g++ compiler)
-   * Date of creation: 4/26/24
-   * Date of last revision: 4/27/24
+   * Date of creation: 8/26/24
+   * Date of last revision: 8/27/24
    * Citation of sources: None
    */
 
