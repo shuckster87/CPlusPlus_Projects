@@ -1,0 +1,6 @@
+# ninja log v5
+408	488	1724792814051057901	Rock_Paper_Scissor	3794ce38c8e875fb
+1	412	1724801999556102206	CMakeFiles/Rock_Paper_Scissor.dir/rock_paper_scissor.cpp.o	dde23a9c04306b70
+15	408	1724792813973059671	CMakeFiles/Rock_Paper_Scissor.dir/main.cpp.o	73ca69ed3f218c05
+2	330	1724812454364402283	CMakeFiles/Rock_Paper_Scissor.dir/cumulative_gpa_calculator.cpp.o	4cbbdeb12367b3b9
+1	352	1724812454385402116	CMakeFiles/Rock_Paper_Scissor.dir/rock_paper_scissor.cpp.o	dde23a9c04306b70

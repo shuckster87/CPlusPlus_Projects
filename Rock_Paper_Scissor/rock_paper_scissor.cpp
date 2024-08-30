@@ -56,6 +56,13 @@ void vs_com(){
         std::cin >> input;
     }
 
+//    if(input == "paper"){
+//        input = "📰";
+//    }
+//    else if(input == "scissor"){
+//        input = "✂";
+//    }
+
     std::cout << "Player 1 has chosen " << input << "!" << std::endl;
 
     //Computer's move
@@ -184,4 +191,3 @@ void play_again(){
 int main() {
     play_game();
 }
-
